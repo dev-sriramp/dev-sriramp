@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uniqueredhat (SRIRAM P)
 - 👀 I’m interested in ... Security
 - 🌱 I’m currently learning ...React-native
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... application developement (cross-platform)
 - 📫 How to reach me ... by mail (mailto:uniqueredhat@gmail.com)
