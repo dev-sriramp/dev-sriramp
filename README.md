@@ -1,7 +1,10 @@
 
 -->
 ### SRIRAM P (INDIA )👋 &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
+<p align="center">
+<img src="https://github.com/uniqueredhat/uniqueredhat/blob/main/logo.jpg" width="300%">
+<div align="center">
+</div>
 <p align="center">
 	<a href="https://t.me/joinchat/c73S1ATHj-lhZTY1"><img title="Telegram Channel" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 	<a href="https://www.hackerrank.com/uniqueredhat"><img title="HackerRank" src="https://img.shields.io/badge/hackerrank-blue?style=for-the-badge&logo=hackerrank"></a>
