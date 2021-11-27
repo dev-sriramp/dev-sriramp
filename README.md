@@ -2,20 +2,20 @@
 -->
 ### SRIRAM P (INDIA )👋 &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <p align="center">
-<img src="https://github.com/uniqueredhat/uniqueredhat/blob/main/logo.jpg" width="300%">
+<img src="https://github.com/dev-sriramp/dev-sriramp/blob/main/logo.jpg" width="300%">
 <div align="center">
 </div>
 <p align="center">
 	<a href="https://t.me/joinchat/c73S1ATHj-lhZTY1"><img title="Telegram Channel" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-	<a href="https://www.hackerrank.com/uniqueredhat"><img title="HackerRank" src="https://img.shields.io/badge/hackerrank-blue?style=for-the-badge&logo=hackerrank"></a>
+	<a href="https://www.hackerrank.com/dev-sriramp"><img title="HackerRank" src="https://img.shields.io/badge/hackerrank-blue?style=for-the-badge&logo=hackerrank"></a>
 </p>
 
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/uniqueredhat)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-red?style=flat&labelColor=c13584&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/uniqueredhat/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dev-sriramp)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-red?style=flat&labelColor=c13584&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dev-sriramp/)
 
 <!--rule -->
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -24,23 +24,23 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 - 👨🏽‍💻 HELLO I’m SRIRAM ;
 - 🌱 I’m currently learning Python, React  ; 
-- ⚡️ I’m looking to collaborate on [React](https://uniqueredhat.netlify.app/) 🤝;
+- ⚡️ I’m looking to collaborate on [React](https://dev-sriramp.netlify.app/) 🤝;
 - 🤔 I’m looking for New programming method;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ I'm Still Student;
-- 📫 How to reach me: [uniqueredhat@gmail.com](mailto:uniqueredhat@gmail.com) ;
+- 📫 How to reach me: [dev.sriramp@gmail.com](mailto:dev.sriramp@gmail.com) ;
 
 <div align="right">
-<img align="right" src="https://github.com/uniqueredhat/uniqueredhat/blob/main/Developer.gif"/>
+<img align="right" src="https://github.com/dev-sriramp/dev-sriramp/blob/main/Developer.gif"/>
 </div>
 
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/uniqueredhat)
-- [![GitHub followers](https://img.shields.io/github/followers/uniqueredhat.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/uniqueredhat?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/dev-sriramp)
+- [![GitHub followers](https://img.shields.io/github/followers/dev-sriramp.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dev-sriramp?tab=followers)
 
 <p align="left">
-<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=uniqueredhat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=dev-sriramp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 
 <p align ="right">
@@ -66,23 +66,23 @@ You can use the website to generate badges: https://shields.io/
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p align="center">
-<a href="https://github.com/uniqueredhat/fileEncryption"><img title="fileEncryption" src="https://github-readme-stats.vercel.app/api/pin/?username=uniqueredhat&repo=fileEncryption&theme=radical"></a>
+<a href="https://github.com/dev-sriramp/fileEncryption"><img title="fileEncryption" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sriramp&repo=fileEncryption&theme=radical"></a>
 </p>
 <p align="center">
-<a href="https://github.com/uniqueredhat/File-Encryption"><img title="File-Encryption" src="https://github-readme-stats.vercel.app/api/pin/?username=uniqueredhat&repo=File-Encryption&theme=highcontrast"></a>
+<a href="https://github.com/dev-sriramp/File-Encryption"><img title="File-Encryption" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sriramp&repo=File-Encryption&theme=highcontrast"></a>
 </p>
 <p align="center">
-<a href="https://github.com/uniqueredhat/pytut"><img title="pytut" src="https://github-readme-stats.vercel.app/api/pin/?username=uniqueredhat&repo=pytut&theme=vision-friendly-dark"></a>
+<a href="https://github.com/dev-sriramp/pytut"><img title="pytut" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sriramp&repo=pytut&theme=vision-friendly-dark"></a>
 </p>
 <p align="center">
-<a href="https://github.com/uniqueredhat/whatsappwebbot"><img title="whatsappwebbot" src="https://github-readme-stats.vercel.app/api/pin/?username=uniqueredhat&repo=whatsappwebbot&theme=highcontrast"></a>
+<a href="https://github.com/dev-sriramp/whatsappwebbot"><img title="whatsappwebbot" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sriramp&repo=whatsappwebbot&theme=highcontrast"></a>
 </p>
 
 <!--rule -->
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p align="center">
-<a href="https://github.com/uniqueredhat"><img title="Uniqueredhat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniqueredhat&layout=compact"></a>
+<a href="https://github.com/dev-sriramp"><img title="Uniqueredhat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sriramp&layout=compact"></a>
 </p>
 
 
@@ -91,13 +91,13 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 <div align="right">
-<a href="https://github.com/uniqueredhat">
+<a href="https://github.com/dev-sriramp">
   <img align="left" alt="Uniqueredhat's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/DeletedAccount001">
   <img align="left" alt="Uniqueredhat's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.hackerrank.com/uniqueredhat">
+<a href="https://www.hackerrank.com/dev-sriramp">
   <img align="left" alt="Uniqueredhat Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 </div>
