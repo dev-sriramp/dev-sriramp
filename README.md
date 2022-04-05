@@ -94,7 +94,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://github.com/dev-sriramp">
   <img align="left" alt="Uniqueredhat's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/DeletedAccount001">
+<a href="https://t.me/dev_sriram">
   <img align="left" alt="Uniqueredhat's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.hackerrank.com/dev-sriramp">
